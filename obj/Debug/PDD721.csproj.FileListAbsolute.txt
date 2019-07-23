@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\PDD721\bin\Debug\PDD721.exe.config
+C:\Users\admin\source\repos\PDD721\bin\Debug\PDD721.exe
+C:\Users\admin\source\repos\PDD721\bin\Debug\PDD721.pdb
+C:\Users\admin\source\repos\PDD721\obj\Debug\PDD721.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PDD721\obj\Debug\PDD721.Form1.resources
+C:\Users\admin\source\repos\PDD721\obj\Debug\PDD721.Properties.Resources.resources
+C:\Users\admin\source\repos\PDD721\obj\Debug\PDD721.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PDD721\obj\Debug\PDD721.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PDD721\obj\Debug\PDD721.exe
+C:\Users\admin\source\repos\PDD721\obj\Debug\PDD721.pdb
+C:\Users\admin\source\repos\PDD721\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\PDD721\bin\Debug\RestSharp.dll
+C:\Users\admin\source\repos\PDD721\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\PDD721\bin\Debug\RestSharp.xml
+C:\Users\admin\source\repos\PDD721\obj\Debug\PDD721.csproj.CopyComplete
