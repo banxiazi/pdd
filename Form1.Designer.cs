@@ -289,7 +289,7 @@
             this.customerServiceBody.TabIndex = 0;
             this.customerServiceBody.Text = "智能客服";
             this.customerServiceBody.UseVisualStyleBackColor = true;
-            this.customerServiceBody.Click += new System.EventHandler(this.TabPage1_Click);
+
             // 
             // cS_loginBody
             // 
@@ -372,7 +372,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "一键登录";
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.Button1_Click_1);
+
             // 
             // cS_ShopName
             // 
@@ -1542,7 +1542,6 @@
             this.inputGoods.TabIndex = 2;
             this.inputGoods.Text = "导入商品";
             this.inputGoods.UseVisualStyleBackColor = true;
-            this.inputGoods.Click += new System.EventHandler(this.InputGoods_Click_1);
             // 
             // stroeComBox
             // 
@@ -2031,7 +2030,6 @@
             this.Controls.Add(this.allBody);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.allBody.ResumeLayout(false);
             this.customerServiceBody.ResumeLayout(false);
             this.cS_loginBody.ResumeLayout(false);
